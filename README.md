@@ -9,4 +9,15 @@ Start time: 2 PM.
 Finish time: 4:43 PM.
 
 Actual time needed to complete: 25 Min. 
-yes we are stubid!!!
+
+================================================================================
+
+number and name of feature: feature #2, Filtering images.
+
+Esimate of time needed to complete: 2hours.
+
+start Time 5 PM
+
+Finish time: not Known yet!
+
+Actual time needed to complete: longer than Electricity Enginnering Class.
